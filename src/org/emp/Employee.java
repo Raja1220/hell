@@ -14,6 +14,10 @@ public class Employee {
 		    }while((n1>=0)||(n2>=0));
 		    System.out.println("Sum"+sum);
 		  }
+	private void hai() {
+		System.out.println("hai");
+
+	}
 		}	
 	
 
